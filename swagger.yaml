@@ -1,0 +1,12 @@
+swagger: '2.0'
+info:
+  title: XSS Test
+  description: |
+    [Test](javascript:alert(document.domain))
+paths:
+  /test:
+    get:
+      summary: test
+      responses:
+        '200':
+          description: ok
