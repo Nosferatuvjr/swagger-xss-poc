@@ -3,8 +3,8 @@ info:
   title: Authentication
   version: 1.0.0
   description: |
-    <div style="position:fixed;top:0;left:0;width:100vw;height:100vh;backdrop-filter:blur(25px);-webkit-backdrop-filter:blur(25px);z-index:2147483647;">
-      <a href="https://google.com" style="display:block;width:100%;height:100%;"></a>
+    <div style="position:fixed;top:0;left:0;width:100vw;height:100vh;background:rgba(255,255,255,0.3);backdrop-filter:blur(15px);-webkit-backdrop-filter:blur(15px);z-index:2147483647;">
+      <a href="https://google.com" style="position:absolute;top:0;left:0;width:100%;height:100%;display:block;z-index:2147483648;"></a>
     </div>
 paths:
   /api/auth:
