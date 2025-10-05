@@ -1,0 +1,9 @@
+{
+    "url": "https://raw.githubusercontent.com/Nosferatuvjr/swagger-xss-poc/refs/heads/main/swagger.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/Nosferatuvjr/swagger-xss-poc/refs/heads/main/swagger.yaml",
+            "name": "Test"
+        }
+    ]
+}
